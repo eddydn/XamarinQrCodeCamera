@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<component format="1" id="googleplayservices-vision" is-shell="true">
+  <name>Google Play Services - Vision</name>
+  <publisher>Xamarin Inc.</publisher>
+  <publisher-url>http://xamarin.com</publisher-url>
+  <version>29.0.0.2</version>
+  <summary>Find objects in photos and video, using real-time on-device vision technology.</summary>
+  <packages>
+    <package id="Xamarin.GooglePlayServices.Vision" version="29.0.0.2" framework="android" />
+  </packages>
+  <samples>
+    <sample id="VisionSample">
+      <name>Vision Sample</name>
+      <summary>Vision Sample</summary>
+    </sample>
+  </samples>
+</component>
